@@ -40,8 +40,8 @@ This is part of a broader goal to build tech for public good.
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/1ndrayu/myvoice-api.git
-cd myvoice-api
+git clone https://github.com/1ndrayu/myVoice-api.git
+cd myVoice-api
 ```
 
 2. Set up virtual environment
@@ -70,5 +70,4 @@ Coming Soon
 
 ---
 
-Contributions
 If you're interested in civic tech or backend systems, feel free to fork and build.
