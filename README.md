@@ -42,3 +42,33 @@ This is part of a broader goal to build tech for public good.
 ```bash
 git clone https://github.com/1ndrayu/myvoice-api.git
 cd myvoice-api
+```
+
+2. Set up virtual environment
+```
+python -m venv env
+source env/bin/activate  # On Windows: .\env\Scripts\activate
+```
+
+3. Install dependencies
+```
+pip install -r requirements.txt
+```
+4. Set up PostgreSQL
+  Create a DB and add connection URL to .env
+
+5. Run the API
+```
+uvicorn main:app --reload
+```
+---
+Coming Soon
+- Authentication (JWT or OAuth2)
+-  Frontend (React or simple HTML)
+-  Analytics dashboard
+-  Public API Explorer (Swagger docs are live)
+
+---
+
+Contributions
+If you're interested in civic tech or backend systems, feel free to fork and build.
