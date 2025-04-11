@@ -33,3 +33,12 @@ This is part of a broader goal to build tech for public good.
 
 ## 🧪 Project Structure
 
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo**  
+```bash
+git clone https://github.com/1ndrayu/myvoice-api.git
+cd myvoice-api
